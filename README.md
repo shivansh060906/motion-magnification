@@ -2,6 +2,8 @@
 
 Phase-based motion magnification to reveal invisible movements (heartbeats, breathing, vibrations) in video.
 
+Find streamlit website here: https://motion-magnification.streamlit.app/
+
 ---
 
 ## Running locally
